@@ -47,8 +47,9 @@ print (x)
 ```
 
 ## Output:
-![lu decomposition](ss.png)
+
 ![imag](sss.png)
+![lu decomposition](ss.png)
 
 
 ## Result:
